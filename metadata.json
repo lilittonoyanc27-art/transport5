@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Verb Adventure",
+  "description": "Ինտերակտիվ 3D արկածային խաղ և տեսություն Terminar, Comenzar և Empezar բայերի մասին: Օգնիր Գոռին և Գայանեին անցնել լեռնային արահետներով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
